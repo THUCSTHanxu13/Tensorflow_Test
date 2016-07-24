@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: report.aux
+Case mismatch error between cite keys Cho2014Learning and cho2014learning
+---line 85 of file report.aux
+ : \citation{Cho2014Learning
+ :                          }
+I'm skipping whatever remains of this command
+The style file: plain.bst
+Database file #1: report.bib
+You've used 20 entries,
+            2118 wiz_defined-function locations,
+            604 strings with 7889 characters,
+and the built_in function-call counts, 8164 in all, are:
+= -- 790
+> -- 459
+< -- 9
++ -- 181
+- -- 160
+* -- 563
+:= -- 1326
+add.period$ -- 63
+call.type$ -- 20
+change.case$ -- 140
+chr.to.int$ -- 0
+cite$ -- 20
+duplicate$ -- 315
+empty$ -- 572
+format.name$ -- 160
+if$ -- 1731
+int.to.chr$ -- 0
+int.to.str$ -- 20
+missing$ -- 20
+newline$ -- 103
+num.names$ -- 40
+pop$ -- 159
+preamble$ -- 1
+purify$ -- 120
+quote$ -- 0
+skip$ -- 246
+stack$ -- 0
+substring$ -- 442
+swap$ -- 107
+text.length$ -- 9
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 80
+warning$ -- 0
+while$ -- 69
+width$ -- 22
+write$ -- 217
+(There was 1 error message)
